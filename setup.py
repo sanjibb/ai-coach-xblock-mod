@@ -35,7 +35,7 @@ setup(
     long_description_content_type='text/markdown',
     url='https://github.com/edly-io/ai-coach-xblock',
     license='AGPL v3',
-    author='edly',
+    author='sanjib basak',
     packages=find_packages(
         include=['ai_coach', 'ai_coach.*'],
         exclude=["*tests"],
